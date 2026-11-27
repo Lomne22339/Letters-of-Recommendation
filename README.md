@@ -34,9 +34,6 @@ IIIT-Delhi, India
 - **Office Extension:** 440
 - **Faculty Profile:** [IIIT-Delhi Official Website](https://iiitd.ac.in/vibhork)
 
-### Recommendation Letter
-[View Letter of Recommendation (PDF)](LOR_Vibhor_Kumar.pdf)
-
 ---
 
 ## 2. Dr. Sayan Basu Roy
@@ -63,9 +60,6 @@ IIIT-Delhi, India
 - **Office Extension:** 559
 - **Faculty Profile:** [IIIT-Delhi Official Website](https://www.iiitd.ac.in/sayan)
 - **Academic Website:** [Personal Faculty Website](https://sites.google.com/iiitd.ac.in/dr-sayan-basu-roy/home)
-
-### Recommendation Letter
-[View Letter of Recommendation (PDF)](LOR_Sayan_Basu_Roy.pdf)
 
 ---
 
